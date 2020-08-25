@@ -1,0 +1,45 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+}
+
+/* Home */
+#home p{
+    font-size: 0.7rem;
+    text-align: center;
+}
+#home{
+    line-height: 1.5;
+}
+
+#home h1{
+    font-size: 2.8rem;
+}
+/* Services */
+.services{
+    flex-direction: column;
+}
+.services .box img {
+    height: 100px;
+    display: block;
+    margin: 15px auto;
+}
+
+/* clients */
+#client .clients{
+    flex-wrap: wrap;
+}
+
+/* contact us */
+.contact-box form{
+    width: 80%;
+}
+
+/* utility */
+.btn{
+    font-size: 1rem;
+}
